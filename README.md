@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Thiago
 
----
 
 💻 **Analista de Suporte de TI** | **Estudante de ADS**  
 🎯 Aprendendo **Front-end** e **Desenvolvimento Mobile** no meu tempo, com calma e curiosidade.  
