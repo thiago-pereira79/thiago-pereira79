@@ -42,10 +42,11 @@ Tenho explorado o mundo do **Front-end**, **Flutter** e **Kotlin**, construindo 
 
 ---
 
-### 💼 Onde me encontrar  
+### 💼 Onde me encontrar
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Pereira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-pereira79/)](https://www.linkedin.com/in/thiago-pereira79/)  
-[![GitHub Badge](https://img.shields.io/badge/-thiago--pereira79-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/thiago-pereira79)](https://github.com/thiago-pereira79)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira79/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-pereira79)
+
 
 ---
 
