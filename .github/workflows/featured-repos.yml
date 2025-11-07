@@ -2,10 +2,13 @@ name: Atualizar projetos em destaque
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # 1x por dia às 12:00 UTC (~09:00 BRT)
+    - cron: "0 12 * * *"   # roda 1x por dia às 12:00 UTC (~09:00 BRT)
   push:
     branches: [ main, master ]
-  workflow_dispatch:       # permite rodar manualmente
+  workflow_dispatch:       # permite rodar manualmente no botão "Run workflow"
+
+permissions:
+  contents: write   # garante permissão para atualizar o README automaticamente
 
 jobs:
   update:
@@ -24,48 +27,3 @@ jobs:
             const fs = require('fs');
 
             // 1) Buscar repositórios públicos do usuário
-            const { data: repos } = await github.rest.repos.listForUser({
-              username: 'thiago-pereira79',
-              per_page: 100,
-              sort: 'pushed', // ordena por atividade mais recente
-              direction: 'desc'
-            });
-
-            // 2) Filtrar: sem fork, sem arquivado
-            const filtered = repos
-              .filter(r => !r.fork && !r.archived && r.private === false)
-              .sort((a,b) => new Date(b.pushed_at) - new Date(a.pushed_at))
-              .slice(0, 3);
-
-            // 3) Montar markdown bonitinho
-            const lines = [];
-            for (const r of filtered) {
-              const desc = (r.description || '').trim();
-              const oneLine = desc.replace(/\r?\n/g, ' ').slice(0, 140);
-              lines.push(`- [**${r.name}**](${r.html_url}) — ${oneLine || 'sem descrição'}`);
-            }
-
-            const block = lines.length
-              ? lines.join('\n')
-              : 'Ainda sem projetos públicos.';
-
-            // 4) Substituir no README entre os marcadores
-            const readmePath = 'README.md';
-            const readme = fs.readFileSync(readmePath, 'utf8');
-
-            const start = '<!-- featured:start -->';
-            const end = '<!-- featured:end -->';
-            const regex = new RegExp(`${start}[\\s\\S]*?${end}`, 'm');
-
-            const updated = readme.replace(regex, `${start}\n${block}\n${end}`);
-
-            fs.writeFileSync(readmePath, updated, 'utf8');
-
-      - name: Commit & Push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(readme): atualiza projetos em destaque"
-          commit_user_name: Thiago Pereira (bot)
-          commit_user_email: t.firminao.79@gmail.com
-          commit_author: Thiago Pereira <t.firminao.79@gmail.com>
-
