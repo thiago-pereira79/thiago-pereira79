@@ -27,10 +27,11 @@ Tenho explorado o mundo do **Front-end**, **Flutter** e **Kotlin**, construindo 
 
 ---
 
-### 🧩 Projetos em Destaque  
-🌐 [Desafio Landing Page](https://github.com/thiago-pereira79/desafio-landing-page)  
-🎧 [PodGenAI](https://github.com/thiago-pereira79/PodGenAI)  
-📄 [Máscaras de Chumbo](https://github.com/thiago-pereira79/mascaras-de-chumbo)  
+## 🌿 Projetos em destaque
+
+<!-- featured:start -->
+Carregando projetos...
+<!-- featured:end -->
 
 *(Aos poucos, vou adicionando mais projetos por aqui...)*  
 
