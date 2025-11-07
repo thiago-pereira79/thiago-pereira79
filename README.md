@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Thiago  
 Acredito que cada linha de código é uma chance de criar algo melhor do que ontem!
 
+---
+
 ### ✨ Sobre mim  
 Profissional de TI no Grupo SEB (Suporte N1/N2), em transição para desenvolvimento front-end e mobile.  
 • Estudante de ADS  
