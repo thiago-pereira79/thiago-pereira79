@@ -1,15 +1,10 @@
-# 👋 Olá, eu sou o Thiago  
-
-💻 **Analista de Suporte de TI** | **Estudante de ADS**  
-🎯 Aprendendo **Front-end** e **Desenvolvimento Mobile** no meu tempo, com calma e curiosidade.  
-🌱 Acredito que cada linha de código é uma chance de criar algo melhor do que ontem, com propósito, aprendizado contínuo e atenção aos detalhes.  
-
----
+👋 Olá, eu sou o Thiago  
+Acredito que cada linha de código é uma chance de criar algo melhor do que ontem!
 
 ### ✨ Sobre mim  
-Sou uma pessoa apaixonada por tecnologia e por entender como as coisas funcionam por trás das telas.  
-Atualmente, atuo no **Grupo SEB** com **Suporte de TI** e curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta Tecnologia**.  
-Tenho explorado o mundo do **Front-end**, **Flutter** e **Kotlin**, construindo meus primeiros projetos e descobrindo o prazer de ver ideias virarem interface, seja em uma tela web ou em um app.  
+Profissional de TI no Grupo SEB (Suporte N1/N2), em transição para desenvolvimento front-end e mobile.  
+• Estudante de ADS  
+• Formado em Relações Internacionais
 
 ---
 
