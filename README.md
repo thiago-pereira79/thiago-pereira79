@@ -26,8 +26,10 @@ Profissional de TI no Grupo SEB (Suporte N1/N2), em transição para desenvolvim
 
 ### 📊 Estatísticas GitHub  
 
-| ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-pereira79&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-pereira79&layout=compact&theme=tokyonight&hide_border=true) |
-|---|---|
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiago-pereira79&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-pereira79&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
