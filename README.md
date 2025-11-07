@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Thiago  
+### 👋 Olá, eu sou o Thiago  
 Acredito que cada linha de código é uma chance de criar algo melhor do que ontem!
 
 ### ✨ Sobre mim  
