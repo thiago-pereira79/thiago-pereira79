@@ -2,7 +2,7 @@
 
 💻 **Analista de Suporte de TI** | **Estudante de ADS**  
 🎯 Aprendendo **Front-end** e **Desenvolvimento Mobile** no meu tempo, com calma e curiosidade.  
-🌱 Acredito que cada linha de código é uma chance de criar algo melhor do que ontem e eu prefiro fazer isso no meu tempo, com constância e propósito.  
+🌱 Acredito que cada linha de código é uma chance de criar algo melhor do que ontem, com propósito, aprendizado contínuo e atenção aos detalhes.  
 
 ---
 
@@ -38,6 +38,5 @@ Tenho explorado o mundo do **Front-end**, **Flutter** e **Kotlin**, construindo 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-pereira79)
 
 ---
-
-> “Aprendizado é constância e o progresso vem no ritmo certo.”  
+ 
 > 🌍 Brodowski/SP  
