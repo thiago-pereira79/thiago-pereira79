@@ -12,20 +12,10 @@ Profissional de TI no Grupo SEB (Suporte N1/N2), em transição para desenvolvim
 
 ### 🧰 Conjunto de tecnologias  
 
-#### **Front-end**
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-
-#### **Mobile**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
-
-#### **Cloud (AWS)**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-#### **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
@@ -33,28 +23,24 @@ Profissional de TI no Grupo SEB (Suporte N1/N2), em transição para desenvolvim
 ---
 
 ### 🌐 Portfólios  
-▫️ **Portfólio | BR:** https://thiago-portfolio-br.vercel.app/  
-▫️ **Portfólio | EN:** https://thiago-portfolio-en.vercel.app/
+
+▫️ **Portfólio | BR** – https://thiago-portfolio-br.vercel.app/  
+▫️ **Portfólio | EN** – https://thiago-portfolio-en.vercel.app/  
 
 ---
 
 ### 📊 Estatísticas GitHub  
-![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-pereira79&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-pereira79&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub de Thiago](https://github-readme-stats-git-master-org-stats.vercel.app/api?username=thiago-pereira79&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Principais idiomas](https://github-readme-stats-git-master-org-stats.vercel.app/api/top-langs/?username=thiago-pereira79&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 💼 Onde me encontrar  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thiago-pereira79/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/thiago-pereira79">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira79/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-pereira79) |
+| --- | --- |
 
 ---
 
