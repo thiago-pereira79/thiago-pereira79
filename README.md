@@ -76,9 +76,14 @@ I hold a bachelor’s degree in International Relations and I’m currently stud
   <a href="https://www.linkedin.com/in/thiago-pereira79/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://tpstudio.tech/">
+    <img src="https://img.shields.io/badge/Website-tpstudio.tech-111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
   <img src="https://img.shields.io/badge/Location-Brazil-2E8B57?style=for-the-badge"/>
+
   <a href="mailto:seu-email-aqui@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Website-Coming%20Soon-555?style=for-the-badge"/>
 </p>
