@@ -68,6 +68,8 @@ I hold a bachelor’s degree in International Relations and I’m currently stud
 - Systems Analysis and Development (ADS)
 - Bachelor’s degree in International Relations
 
+---
+
 ## 📫 Connect
 
 <p align="left">
@@ -79,7 +81,7 @@ I hold a bachelor’s degree in International Relations and I’m currently stud
     <img src="https://img.shields.io/badge/Website-555555?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="mailto:seu-email-aqui@gmail.com">
+  <a href="mailto:t.firmiano.79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
