@@ -76,11 +76,11 @@ I hold a bachelor’s degree in International Relations and I’m currently stud
   </a>
 
   <a href="https://tpstudio.tech/">
-    <img src="https://img.shields.io/badge/Website-TPSTUDIO.TECH-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-555555?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
   <a href="mailto:seu-email-aqui@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <img src="https://img.shields.io/badge/Location-Brazil-2E8B57?style=for-the-badge"/>
