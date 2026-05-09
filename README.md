@@ -75,7 +75,7 @@ I believe in solutions that combine structure, experience, and purpose. Digital 
 
 ## 🎓 Education
 
-- Postgraduate Degree in UX Engineering — PUC Minas
+- Postgraduate Degree in UX Engineering - PUC Minas
 - Technologist Degree in Systems Analysis and Development
 - Bachelor’s Degree in International Relations
 
