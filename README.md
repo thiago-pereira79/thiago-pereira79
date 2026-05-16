@@ -94,6 +94,6 @@ I believe in solutions that combine structure, experience, and purpose. Digital 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Pereira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira79/)
-[![Website](https://img.shields.io/badge/Website-tpstudio.tech-111827?style=flat&logo=vercel&logoColor=white)](https://tpstudio.tech/)
+[![Website](https://img.shields.io/badge/Website-tpstudio.io-111827?style=flat&logo=vercel&logoColor=white)](https://tpstudio.io/)
 [![Email](https://img.shields.io/badge/Email-t.firmiano.79%40gmail.com-DC2626?style=flat&logo=gmail&logoColor=white)](mailto:t.firmiano.79@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Brazil-16A34A?style=flat&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Brazil)
