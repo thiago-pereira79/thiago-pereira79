@@ -29,14 +29,6 @@ I enjoy understanding the whole journey: from the problem and the user experienc
 
 ---
 
-## Learning path
-
-My current learning path includes React, Node.js, Python for AI, Flutter, UX/UI Design, AI Engineering, product strategy, digital communication, and leadership.
-
-Instead of seeing these areas as separate worlds, I see them as connected parts of the same goal: building better digital experiences with clarity, purpose, and practical value.
-
----
-
 ## Education
 
 - Postgraduate Degree in UX Engineering at PUC Minas
