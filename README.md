@@ -2,7 +2,7 @@
 
 I work at the intersection of software development, UX Engineering, interface design, and artificial intelligence.
 
-My focus is on creating clear, functional, and thoughtful digital solutions — combining technology, user experience, and structured thinking to turn ideas into products that make sense in practice.
+My focus is on creating clear, functional, and thoughtful digital solutions, combining technology, user experience, and structured thinking to turn ideas into products that make sense in practice.
 
 ---
 
@@ -39,7 +39,7 @@ Instead of seeing these areas as separate worlds, I see them as connected parts 
 
 ## Education
 
-- Postgraduate Degree in UX Engineering — PUC Minas
+- Postgraduate Degree in UX Engineering at PUC Minas
 - Technologist Degree in Systems Analysis and Development
 - Bachelor’s Degree in International Relations
 
