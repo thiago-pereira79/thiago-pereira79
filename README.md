@@ -31,7 +31,7 @@ I enjoy understanding the whole journey: from the problem and the user experienc
 
 ## Education
 
-- Postgraduate Degree in UX Engineering at PUC Minas
+- Postgraduate Specialization in UX Engineering at PUC Minas
 - Technologist Degree in Systems Analysis and Development
 - Bachelor’s Degree in International Relations
 
@@ -50,6 +50,6 @@ I enjoy understanding the whole journey: from the problem and the user experienc
 
 ## Links
 
-[Portfolio and services](https://tpstudio.io/) · [Digital resume](https://tpstudio.tech/) · [LinkedIn](https://www.linkedin.com/in/thiago-pereira79/) · [Email](mailto:t.firmiano.79@gmail.com)
+[Portfolio and services](http://tpstudio.com.br/) · [Digital resume](http://tplab.com.br/) · [LinkedIn](https://www.linkedin.com/in/thiago-pereira79/)
 
 Based in Brazil
