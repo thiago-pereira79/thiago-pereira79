@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Thiago
+# Hi
 
-I work at the intersection of software development, UX Engineering, interface design, and artificial intelligence.
+Building is only part of the work.
 
-My focus is on creating clear, functional, and thoughtful digital solutions, combining technology, user experience, and structured thinking to turn ideas into products that make sense in practice.
+A digital product is not finished just because the code works. It also needs a clear purpose, a consistent experience, and an interface that makes sense to the people using it.
+
+My work brings together software development, UX Engineering, interface design, and artificial intelligence to turn ideas into useful, functional, and well-built products.
 
 ---
 
@@ -10,9 +12,9 @@ My focus is on creating clear, functional, and thoughtful digital solutions, com
 
 I see technology as more than code running behind a screen.
 
-When well applied, it appears in the clarity of an interface, in the consistency of a product decision, in the way a system reduces friction, and in how an idea becomes something people can actually use.
+When thoughtfully applied, it shows in the clarity of an interface, the consistency of a product decision, the way a system reduces friction, and how an idea becomes something people can actually use.
 
-My path connects software development, UX Engineering, UI Design, artificial intelligence, and digital product thinking.
+My professional path connects software development, UX Engineering, UI Design, artificial intelligence, and digital product thinking.
 
 I enjoy understanding the whole journey: from the problem and the user experience to the interface, the implementation, and the way a product communicates value.
 
@@ -44,7 +46,7 @@ I enjoy understanding the whole journey: from the problem and the user experienc
 - Software that solves real problems
 - Artificial intelligence applied to practical solutions
 - Technology that improves people’s experiences
-- Products that connect functionality, clarity, and purpose
+- Products that bring together functionality, clarity, and purpose
 
 ---
 
@@ -52,4 +54,4 @@ I enjoy understanding the whole journey: from the problem and the user experienc
 
 [Portfolio and services](http://tpstudio.com.br/) · [Digital resume](http://tplab.com.br/) · [LinkedIn](https://www.linkedin.com/in/thiago-pereira79/)
 
-Based in Brazil
+📍 Based in Brazil
