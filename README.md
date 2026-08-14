@@ -1,57 +1,79 @@
-# Hi
+# Hi, I'm Thiago 👋
 
-Building is only part of the work.
+**Full Stack & Mobile Developer | UX Engineering | Applied AI**
 
-A digital product is not finished just because the code works. It also needs a clear purpose, a consistent experience, and an interface that makes sense to the people using it.
+I build digital products by connecting software engineering, user experience, and applied artificial intelligence.
 
-My work brings together software development, UX Engineering, interface design, and artificial intelligence to turn ideas into useful, functional, and well-built products.
-
----
-
-## About me
-
-I see technology as more than code running behind a screen.
-
-When thoughtfully applied, it shows in the clarity of an interface, the consistency of a product decision, the way a system reduces friction, and how an idea becomes something people can actually use.
-
-My professional path connects software development, UX Engineering, UI Design, artificial intelligence, and digital product thinking.
-
-I enjoy understanding the whole journey: from the problem and the user experience to the interface, the implementation, and the way a product communicates value.
+For me, working software is only part of a good product. It also needs to be clear, accessible, consistent, maintainable, and useful to the people using it.
 
 ---
 
-## Focus areas
+## About
 
-- Front-end development with React
-- APIs and back-end fundamentals with Node.js
-- UX Engineering and UI Design
-- AI Engineering, LLMs, RAG, and intelligent agents
-- Mobile interfaces with Flutter
-- Product thinking, leadership, and digital strategy
+My work spans **Full Stack development, mobile development, UX Engineering, and Applied AI**.
+
+I like being involved across the development process: understanding the problem, structuring the experience, defining the technical approach, building interfaces and services, integrating systems, testing, and improving the product over time.
+
+UX Engineering is a natural part of how I approach software. Usability, accessibility, information architecture, responsive interfaces, interaction, and Design Systems influence technical decisions just as much as implementation itself.
+
+Artificial intelligence is another part of this ecosystem, with Python applied to AI solutions involving LLMs, RAG, intelligent agents, automation, and model integration into digital products.
+
+---
+
+## Tech
+
+### Full Stack
+
+`React` · `TypeScript` · `Node.js` · `JavaScript` · `REST APIs` · `PostgreSQL` · `SQL`
+
+### Mobile
+
+`Flutter` · `Dart`
+
+### Applied AI
+
+`Python` · `LLMs` · `RAG` · `AI Agents` · `Automation`
+
+### UX Engineering
+
+`Design Systems` · `Accessibility` · `Responsive Design` · `Information Architecture` · `Interaction Design` · `Figma`
+
+### Development
+
+`Git` · `GitHub` · `API Integration` · `Component-Based Development`
+
+---
+
+## What I care about
+
+- Software that solves real problems
+- Clear and maintainable implementations
+- Accessible and responsive experiences
+- Consistency between design and development
+- Products designed and built as a whole
+- AI applied where it brings real value
+- Collaboration between engineering, design, product, and business
 
 ---
 
 ## Education
 
-- Postgraduate Specialization in UX Engineering at PUC Minas
-- Technologist Degree in Systems Analysis and Development
-- Bachelor’s Degree in International Relations
+- **Postgraduate Specialization in UX Engineering** - PUC Minas
+- **Technology Degree in Systems Analysis and Development** - Impacta Tecnologia
+- **Bachelor's Degree in International Relations** - UNINTER
 
 ---
 
-## What I value
+## Projects
 
-- Clear, useful, and scalable digital products
-- Simple, consistent, and accessible interfaces
-- Software that solves real problems
-- Artificial intelligence applied to practical solutions
-- Technology that improves people’s experiences
-- Products that bring together functionality, clarity, and purpose
+This profile brings together projects involving **web development, mobile applications, UX Engineering, and Applied AI**.
+
+Each repository documents not only the implementation, but also the decisions, structure, technologies, and evolution behind the project whenever relevant.
 
 ---
 
 ## Links
 
-[Portfolio and services](http://tpstudio.com.br/) · [Digital resume](http://tplab.com.br/) · [LinkedIn](https://www.linkedin.com/in/thiago-pereira79/)
+[**Portfolio & Services**](https://tpstudio.com.br/) · [**Digital Resume & Projects**](https://tplab.com.br/) · [**LinkedIn**](https://www.linkedin.com/in/thiago-pereira79/)
 
-📍 Based in Brazil
+📍 Brazil
