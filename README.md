@@ -1,4 +1,4 @@
-# Hi, I'm Thiago 👋
+# Hello 👋
 
 **Full Stack & Mobile Developer | UX Engineering | Applied AI**
 
