@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ativos/banner.png" width="100%" alt="GitHub profile banner" />
+  <img src="./ativos/ios-ux-ai-banner.png" width="100%" alt="GitHub profile banner" />
 </p>
 
 # iOS Developer
