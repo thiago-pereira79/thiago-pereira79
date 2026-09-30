@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./ativos/ios-ux-ai-banner.png" width="100%" alt="GitHub profile banner" />
+  <img src="./ativos/hello-world.png" width="100%" alt="GitHub profile banner" />
 </p>
 
-# iOS Developer
+# iOS Developer | UX Engineering | Applied AI
 
 Native iOS development with **Swift, SwiftUI and UIKit** across Apple platforms.
 
