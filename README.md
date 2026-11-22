@@ -20,7 +20,7 @@ My background in technology combines experience in enterprise systems and web de
     <img src="https://img.shields.io/badge/Digital_Resume-6D4AFF?style=for-the-badge" alt="Digital Resume" />
   </a>
   <a href="https://www.tpstudio.com.br/">
-    <img src="https://img.shields.io/badge/Portfolio_%26_Services-00AFAF?style=for-the-badge" alt="Portfolio & Services" />
+    <img src="https://img.shields.io/badge/Services-00AFAF?style=for-the-badge" alt="Services" />
   </a>
   <a href="https://www.linkedin.com/in/thiago-pereira79/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
